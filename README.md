@@ -5,3 +5,5 @@
 🌱 I’m currently learning React Native for the above project, as well as trying to pick up the syntax of C# in a .NET framework. <br>
 💡 Aspiring to work in web / app development. <br>
 😄 Pronouns: he/him <br>
+
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylemoigne)](https://github.com/anuraghazra/github-readme-stats)
