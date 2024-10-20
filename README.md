@@ -6,5 +6,5 @@
 💡 Aspiring to work in web / app development. <br>
 😄 Pronouns: he/him <br>
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylemoigne)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylemoigne)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylemoigne&theme=tokyonight)
