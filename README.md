@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 🧑‍🎓 Studing Software Engineering at Bournemouth University. <br>
-🔭 I’m currently working on a D&D Application using React, Typescript and TailwindCSS <br>
-🌱 I’m currently learning React Native for the above project, as well as trying to pick up the syntax of C# in a .NET framework. <br>
+🔭 I’m currently working on a Cinema Booking System application for my final year unit, as well as my dissertation focusing on Augmented Reality <br>
+
 💡 Aspiring to work in web / app development. <br>
-😄 Pronouns: he/him <br>
 📝 Find my Portfolio Website at [(https://githubjaylemoigne)](https://jaylemoigne.github.io/portfolio-website/) <br>
 📧 Contact me @ jaylemoigne.career@gmail.com
 
